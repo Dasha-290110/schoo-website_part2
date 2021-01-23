@@ -1,0 +1,26 @@
+.img_it {
+    width: 300px;
+    height: 300px;
+}
+
+#prin {
+    width: 300px;
+    height: 300px;
+}
+.sports_head i {
+    float: right;
+}
+.sports_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.img_modal{
+    display: inline;
+}
